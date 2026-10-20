@@ -1,0 +1,3559 @@
+{
+  "prodotti": [
+    {
+      "color": {
+        "it": "Marrone",
+        "en": "Brown"
+      },
+      "brand": "Armani Exchange",
+      "price": 120,
+      "name": {
+        "it": "Pullover in maglia misto viscosa, lana e cashmere",
+        "en": "Viscose, wool and cashmere blend knit pullover"
+      },
+      "code": "XW002632 AF25935 U6032",
+      "bullets": {
+        "it": [
+          "Pullover in maglia fine",
+          "Misto viscosa, lana e cashmere",
+          "Vestibilità regular",
+          "Girocollo e bordi a coste"
+        ],
+        "en": [
+          "Fine-knit pullover",
+          "Viscose, wool and cashmere blend",
+          "Regular fit",
+          "Ribbed crew neck and trims"
+        ]
+      },
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#3d2f2a",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/ax-pullover-cashmere/1.jpg",
+        "assets/img/prodotti/ax-pullover-cashmere/2.jpg",
+        "assets/img/prodotti/ax-pullover-cashmere/3.jpg",
+        "assets/img/prodotti/ax-pullover-cashmere/4.jpg",
+        "assets/img/prodotti/ax-pullover-cashmere/5.jpg",
+        "assets/img/prodotti/ax-pullover-cashmere/6.jpg"
+      ],
+      "type": "maglieria",
+      "id": "ax-pullover-cashmere",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Grigio",
+        "en": "Grey"
+      },
+      "brand": "Liu Jo",
+      "price": 169,
+      "name": {
+        "it": "Felpa con cappuccio in pizzo",
+        "en": "Lace-lined hooded sweatshirt"
+      },
+      "code": "TF6200T691AD3031",
+      "bullets": {
+        "it": [
+          "Felpa boxy gessata",
+          "Cappuccio con fodera in pizzo",
+          "Chiusura con zip",
+          "Logo Liu Jo"
+        ],
+        "en": [
+          "Boxy pinstriped sweatshirt",
+          "Lace-lined hood",
+          "Zip fastening",
+          "Liu Jo logo"
+        ]
+      },
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#5d5f63",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/lj-felpa-pizzo/1.jpg",
+        "assets/img/prodotti/lj-felpa-pizzo/2.jpg",
+        "assets/img/prodotti/lj-felpa-pizzo/3.jpg",
+        "assets/img/prodotti/lj-felpa-pizzo/4.jpg",
+        "assets/img/prodotti/lj-felpa-pizzo/5.jpg",
+        "assets/img/prodotti/lj-felpa-pizzo/6.jpg",
+        "assets/img/prodotti/lj-felpa-pizzo/7.jpg"
+      ],
+      "type": "felpe",
+      "id": "lj-felpa-pizzo",
+      "look": [
+        "lj-pantaloni-gessati"
+      ]
+    },
+    {
+      "color": {
+        "it": "Grigio",
+        "en": "Grey"
+      },
+      "brand": "Liu Jo",
+      "price": 139,
+      "name": {
+        "it": "Pantaloni gessati con inserto in pizzo",
+        "en": "Pinstriped trousers with lace insert"
+      },
+      "code": "TF6149T691AD3031",
+      "bullets": {
+        "it": [
+          "Pantaloni lunghi gessati",
+          "Chiusura con coulisse",
+          "Cintura decorata in pizzo",
+          "Tasche laterali"
+        ],
+        "en": [
+          "Long pinstriped trousers",
+          "Drawstring fastening",
+          "Lace-trimmed waistband",
+          "Side pockets"
+        ]
+      },
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#5d5f63",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/lj-pantaloni-gessati/1.jpg",
+        "assets/img/prodotti/lj-pantaloni-gessati/2.jpg",
+        "assets/img/prodotti/lj-pantaloni-gessati/3.jpg",
+        "assets/img/prodotti/lj-pantaloni-gessati/4.jpg",
+        "assets/img/prodotti/lj-pantaloni-gessati/5.jpg",
+        "assets/img/prodotti/lj-pantaloni-gessati/6.jpg",
+        "assets/img/prodotti/lj-pantaloni-gessati/7.jpg"
+      ],
+      "type": "pantaloni",
+      "id": "lj-pantaloni-gessati",
+      "look": [
+        "lj-felpa-pizzo"
+      ]
+    },
+    {
+      "color": {
+        "it": "Nero",
+        "en": "Black"
+      },
+      "brand": "Liu Jo",
+      "price": 119,
+      "name": {
+        "it": "Maglia con profili a contrasto",
+        "en": "Cable-knit sweater with contrast trims"
+      },
+      "code": "TF6189MS63LA3521",
+      "bullets": {
+        "it": [
+          "Maglia in misto viscosa",
+          "Design a trecce",
+          "Rifiniture a contrasto su polsini e orlo"
+        ],
+        "en": [
+          "Viscose-blend sweater",
+          "Cable-knit design",
+          "Contrast trims on cuffs and hem"
+        ]
+      },
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#1d1d1d",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/lj-maglia-profili/1.jpg",
+        "assets/img/prodotti/lj-maglia-profili/2.jpg",
+        "assets/img/prodotti/lj-maglia-profili/3.jpg",
+        "assets/img/prodotti/lj-maglia-profili/4.jpg",
+        "assets/img/prodotti/lj-maglia-profili/5.jpg",
+        "assets/img/prodotti/lj-maglia-profili/6.jpg",
+        "assets/img/prodotti/lj-maglia-profili/7.jpg"
+      ],
+      "type": "maglieria",
+      "id": "lj-maglia-profili",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Nero",
+        "en": "Black"
+      },
+      "brand": "Liu Jo",
+      "price": 149,
+      "name": {
+        "it": "Abito corto in maglia",
+        "en": "Short knit dress"
+      },
+      "code": "TF6271MS63LA3521",
+      "bullets": {
+        "it": [
+          "Abito corto in maglia",
+          "Inserti con lavorazione a coste",
+          "Colletto a camicia",
+          "Scollo a V",
+          "Orli a contrasto",
+          "Maniche lunghe"
+        ],
+        "en": [
+          "Short knit dress",
+          "Ribbed inserts",
+          "Shirt collar",
+          "V-neck",
+          "Contrast hems",
+          "Long sleeves"
+        ]
+      },
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#222222",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/lj-abito-maglia/1.jpg",
+        "assets/img/prodotti/lj-abito-maglia/2.jpg",
+        "assets/img/prodotti/lj-abito-maglia/3.jpg",
+        "assets/img/prodotti/lj-abito-maglia/4.jpg",
+        "assets/img/prodotti/lj-abito-maglia/5.jpg",
+        "assets/img/prodotti/lj-abito-maglia/6.jpg",
+        "assets/img/prodotti/lj-abito-maglia/7.jpg"
+      ],
+      "type": "abiti",
+      "id": "lj-abito-maglia",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Nero",
+        "en": "Black"
+      },
+      "brand": "Liu Jo",
+      "price": 129,
+      "name": {
+        "it": "Cardigan bicolor",
+        "en": "Two-tone cardigan"
+      },
+      "code": "TF6035MS49IA3521",
+      "bullets": {
+        "it": [
+          "Maglia aperta in maglia",
+          "Dettaglio a contrasto sui bordi",
+          "Tasche applicate frontali",
+          "Design versatile e raffinato"
+        ],
+        "en": [
+          "Open-front knit cardigan",
+          "Contrast edges",
+          "Front patch pockets",
+          "Versatile, refined design"
+        ]
+      },
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#1d1d1d",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/lj-cardigan-bicolor/1.jpg",
+        "assets/img/prodotti/lj-cardigan-bicolor/2.jpg",
+        "assets/img/prodotti/lj-cardigan-bicolor/3.jpg",
+        "assets/img/prodotti/lj-cardigan-bicolor/4.jpg",
+        "assets/img/prodotti/lj-cardigan-bicolor/5.jpg",
+        "assets/img/prodotti/lj-cardigan-bicolor/6.jpg",
+        "assets/img/prodotti/lj-cardigan-bicolor/7.jpg"
+      ],
+      "type": "maglieria",
+      "id": "lj-cardigan-bicolor",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Melanzana",
+        "en": "Aubergine"
+      },
+      "brand": "Liu Jo",
+      "price": 89,
+      "name": {
+        "it": "Pantaloni regular in felpa",
+        "en": "Regular-fit sweatpants"
+      },
+      "code": "TF6073FS09191718",
+      "bullets": {
+        "it": [
+          "Pantaloni in felpa di cotone",
+          "Cintone elastico in vita",
+          "Comode tasche",
+          "Gamba dritta",
+          "Logo ricamato"
+        ],
+        "en": [
+          "Cotton sweatpants",
+          "Elastic waistband",
+          "Handy pockets",
+          "Straight leg",
+          "Embroidered logo"
+        ]
+      },
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#4a1f2e",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/lj-pantaloni-felpa/1.jpg",
+        "assets/img/prodotti/lj-pantaloni-felpa/2.jpg",
+        "assets/img/prodotti/lj-pantaloni-felpa/3.jpg",
+        "assets/img/prodotti/lj-pantaloni-felpa/4.jpg",
+        "assets/img/prodotti/lj-pantaloni-felpa/5.jpg",
+        "assets/img/prodotti/lj-pantaloni-felpa/6.jpg",
+        "assets/img/prodotti/lj-pantaloni-felpa/7.jpg"
+      ],
+      "type": "pantaloni",
+      "id": "lj-pantaloni-felpa",
+      "look": [
+        "lj-maglia-monogram"
+      ]
+    },
+    {
+      "color": {
+        "it": "Beige",
+        "en": "Beige"
+      },
+      "brand": "Liu Jo",
+      "price": 249,
+      "name": {
+        "it": "Giaccone boxy in montone sintetico",
+        "en": "Boxy faux-shearling jacket"
+      },
+      "code": "TF6113T772A02114",
+      "bullets": {
+        "it": [
+          "Giaccone boxy in montone sintetico",
+          "Chiusura con zip",
+          "Maniche ampie con risvolto",
+          "Fodera interna in teddy"
+        ],
+        "en": [
+          "Boxy faux-shearling jacket",
+          "Zip fastening",
+          "Wide turn-up sleeves",
+          "Teddy lining"
+        ]
+      },
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#cfc4b6",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/lj-giaccone-montone/1.jpg",
+        "assets/img/prodotti/lj-giaccone-montone/2.jpg",
+        "assets/img/prodotti/lj-giaccone-montone/3.jpg",
+        "assets/img/prodotti/lj-giaccone-montone/4.jpg",
+        "assets/img/prodotti/lj-giaccone-montone/5.jpg",
+        "assets/img/prodotti/lj-giaccone-montone/6.jpg",
+        "assets/img/prodotti/lj-giaccone-montone/7.jpg"
+      ],
+      "type": "capispalla",
+      "id": "lj-giaccone-montone",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Marrone",
+        "en": "Brown"
+      },
+      "brand": "Blauer",
+      "price": 499,
+      "name": {
+        "it": "Piumino lungo in velluto lucido Velly Long",
+        "en": "Velly Long shiny velvet long down jacket"
+      },
+      "code": "26WBLDK03364",
+      "bullets": {
+        "it": [
+          "Velluto lucido con riflessi iridescenti, impunture a righe orizzontali",
+          "Taglio sfiancato che segna il punto vita",
+          "Cappuccio fisso",
+          "Imbottito in piuma 90/10, 195 g",
+          "Zip con copri cursore, tasche con zip",
+          "Tasche interne con zip e velcro",
+          "Patch glitterato e passante con logo"
+        ],
+        "en": [
+          "Shiny iridescent velvet with horizontal quilting",
+          "Fitted cut that defines the waist",
+          "Fixed hood",
+          "Down padding 90/10, 195 g",
+          "Zip with cursor cover, zipped pockets",
+          "Inner pockets with zip and velcro",
+          "Glitter patch and logo loop"
+        ]
+      },
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#5a4636",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/bl-piumino-velly-long/1.jpg",
+        "assets/img/prodotti/bl-piumino-velly-long/2.jpg",
+        "assets/img/prodotti/bl-piumino-velly-long/3.jpg",
+        "assets/img/prodotti/bl-piumino-velly-long/4.jpg"
+      ],
+      "type": "capispalla",
+      "id": "bl-piumino-velly-long",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Nero, interno beige",
+        "en": "Black, beige lining"
+      },
+      "brand": "Blauer",
+      "price": 449,
+      "name": {
+        "it": "Piumino lungo Lyne",
+        "en": "Lyne long down jacket"
+      },
+      "code": "26WBLDK03035",
+      "bullets": {
+        "it": [
+          "Piumino lungo trapuntato a onde orizzontali",
+          "Taglio che risalta il punto vita",
+          "Cappuccio fisso, interno in contrasto colore",
+          "Imbottito in piuma 90/10, 250 g",
+          "Chiusura con zip, copri cursore sul collo",
+          "Tasche con zip nascosta, tasche interne con zip e velcro",
+          "Patch e passante con logo"
+        ],
+        "en": [
+          "Long down jacket with horizontal wave quilting",
+          "Cut that defines the waist",
+          "Fixed hood, contrast-colour lining",
+          "Down padding 90/10, 250 g",
+          "Zip fastening, cursor cover at the neck",
+          "Hidden zip pockets, inner pockets with zip and velcro",
+          "Logo patch and loop"
+        ]
+      },
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#141414",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/bl-piumino-lyne/1.jpg",
+        "assets/img/prodotti/bl-piumino-lyne/2.jpg",
+        "assets/img/prodotti/bl-piumino-lyne/3.jpg",
+        "assets/img/prodotti/bl-piumino-lyne/4.jpg",
+        "assets/img/prodotti/bl-piumino-lyne/5.jpg"
+      ],
+      "type": "capispalla",
+      "id": "bl-piumino-lyne",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Nero",
+        "en": "Black"
+      },
+      "brand": "Blauer",
+      "price": 449,
+      "name": {
+        "it": "Piumino lucido opaco Sawyer",
+        "en": "Sawyer shiny-matte down jacket"
+      },
+      "code": "26WBLDK03413",
+      "bullets": {
+        "it": [
+          "Neoprene liscio opaco nel corpo, nylon lucido trapuntato a righe su cappuccio e maniche",
+          "Fodera lucida in tono con impunture orizzontali",
+          "Cappuccio fisso",
+          "Imbottito in piuma 90/10, 230 g",
+          "Chiusura con zip, tasche aperte, tasche interne con velcro",
+          "Polsini doppi con elastico interno, coulisse sul fondo",
+          "Patch e passante con logo"
+        ],
+        "en": [
+          "Smooth matte neoprene body, shiny striped-quilted nylon hood and sleeves",
+          "Matching shiny lining with horizontal stitching",
+          "Fixed hood",
+          "Down padding 90/10, 230 g",
+          "Zip fastening, open pockets, inner velcro pockets",
+          "Double cuffs with inner elastic, drawstring hem",
+          "Logo patch and loop"
+        ]
+      },
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#141414",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/bl-piumino-sawyer-nero/1.jpg",
+        "assets/img/prodotti/bl-piumino-sawyer-nero/2.jpg",
+        "assets/img/prodotti/bl-piumino-sawyer-nero/3.jpg",
+        "assets/img/prodotti/bl-piumino-sawyer-nero/4.jpg",
+        "assets/img/prodotti/bl-piumino-sawyer-nero/5.jpg"
+      ],
+      "type": "capispalla",
+      "id": "bl-piumino-sawyer-nero",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Marrone",
+        "en": "Brown"
+      },
+      "brand": "Blauer",
+      "price": 449,
+      "name": {
+        "it": "Piumino lucido opaco Sawyer",
+        "en": "Sawyer shiny-matte down jacket"
+      },
+      "code": "26WBLDK03413",
+      "bullets": {
+        "it": [
+          "Neoprene liscio opaco nel corpo, nylon lucido trapuntato a righe su cappuccio e maniche",
+          "Fodera lucida in tono con impunture orizzontali",
+          "Cappuccio fisso",
+          "Imbottito in piuma 90/10, 230 g",
+          "Chiusura con zip, tasche aperte, tasche interne con velcro",
+          "Polsini doppi con elastico interno, coulisse sul fondo",
+          "Patch e passante con logo"
+        ],
+        "en": [
+          "Smooth matte neoprene body, shiny striped-quilted nylon hood and sleeves",
+          "Matching shiny lining with horizontal stitching",
+          "Fixed hood",
+          "Down padding 90/10, 230 g",
+          "Zip fastening, open pockets, inner velcro pockets",
+          "Double cuffs with inner elastic, drawstring hem",
+          "Logo patch and loop"
+        ]
+      },
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#4a3427",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/bl-piumino-sawyer-marrone/1.jpg",
+        "assets/img/prodotti/bl-piumino-sawyer-marrone/2.jpg",
+        "assets/img/prodotti/bl-piumino-sawyer-marrone/3.jpg",
+        "assets/img/prodotti/bl-piumino-sawyer-marrone/4.jpg",
+        "assets/img/prodotti/bl-piumino-sawyer-marrone/5.jpg"
+      ],
+      "type": "capispalla",
+      "id": "bl-piumino-sawyer-marrone",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Nero / beige (reversibile)",
+        "en": "Black / beige (reversible)"
+      },
+      "brand": "Blauer",
+      "price": 425,
+      "name": {
+        "it": "Piumino reversibile bicolor Ballard",
+        "en": "Ballard two-tone reversible down jacket"
+      },
+      "code": "26WBLUC06063",
+      "bullets": {
+        "it": [
+          "Piumino idrorepellente reversibile: liscio da un lato, trapuntato a righe dall'altro",
+          "Due versioni in un capo, una più elegante e una più casual",
+          "Neoprene liscio da un lato, nylon lucido dall'altro",
+          "Cappuccio fisso con bordo in lycra",
+          "Imbottito 50% piuma e 50% ovatta",
+          "Zip reversibile, tasche con zip da un lato e con automatico dall'altro",
+          "Patch e passante con logo su entrambi i lati"
+        ],
+        "en": [
+          "Water-repellent reversible down jacket: smooth on one side, striped quilting on the other",
+          "Two looks in one, smarter and more casual",
+          "Smooth neoprene on one side, shiny nylon on the other",
+          "Fixed hood with lycra trim",
+          "Padding 50% down, 50% wadding",
+          "Reversible zip, zip pockets on one side and snap pockets on the other",
+          "Logo patch and loop on both sides"
+        ]
+      },
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "tone": "#141414",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/bl-piumino-ballard-nero/1.jpg",
+        "assets/img/prodotti/bl-piumino-ballard-nero/2.jpg",
+        "assets/img/prodotti/bl-piumino-ballard-nero/3.jpg",
+        "assets/img/prodotti/bl-piumino-ballard-nero/4.jpg",
+        "assets/img/prodotti/bl-piumino-ballard-nero/5.jpg",
+        "assets/img/prodotti/bl-piumino-ballard-nero/6.jpg"
+      ],
+      "type": "capispalla",
+      "id": "bl-piumino-ballard-nero",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Melanzana",
+        "en": "Aubergine"
+      },
+      "brand": "Liu Jo",
+      "price": 129,
+      "name": {
+        "it": "Maglia con logo monogram",
+        "en": "Monogram logo sweater"
+      },
+      "code": "TF6261MS63LL9625",
+      "bullets": {
+        "it": [
+          "Maglia in misto viscosa",
+          "Logo monogram",
+          "Pietre gioiello",
+          "Girocollo",
+          "Maniche lunghe"
+        ],
+        "en": [
+          "Viscose-blend sweater",
+          "Monogram logo",
+          "Jewel stones",
+          "Crew neck",
+          "Long sleeves"
+        ]
+      },
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#4a1f2e",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/lj-maglia-monogram/1.jpg",
+        "assets/img/prodotti/lj-maglia-monogram/2.jpg",
+        "assets/img/prodotti/lj-maglia-monogram/3.jpg",
+        "assets/img/prodotti/lj-maglia-monogram/4.jpg",
+        "assets/img/prodotti/lj-maglia-monogram/5.jpg",
+        "assets/img/prodotti/lj-maglia-monogram/6.jpg",
+        "assets/img/prodotti/lj-maglia-monogram/7.jpg"
+      ],
+      "type": "maglieria",
+      "id": "lj-maglia-monogram",
+      "look": [
+        "lj-pantaloni-felpa"
+      ]
+    },
+    {
+      "color": {
+        "it": "Rosa scuro",
+        "en": "Dark pink"
+      },
+      "brand": "Liu Jo",
+      "price": 125,
+      "name": {
+        "it": "Maglia jacquard",
+        "en": "Jacquard sweater"
+      },
+      "code": "TF6183MS49I81409",
+      "bullets": {
+        "it": [
+          "Maglia in jacquard",
+          "Fantasia cocco",
+          "Design elegante e sofisticato",
+          "Logo Liu Jo sul retro"
+        ],
+        "en": [
+          "Jacquard sweater",
+          "Croc-effect pattern",
+          "Elegant, sophisticated design",
+          "Liu Jo logo on the back"
+        ]
+      },
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#8a6a6e",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/lj-maglia-jacquard/1.jpg",
+        "assets/img/prodotti/lj-maglia-jacquard/2.jpg",
+        "assets/img/prodotti/lj-maglia-jacquard/3.jpg",
+        "assets/img/prodotti/lj-maglia-jacquard/4.jpg",
+        "assets/img/prodotti/lj-maglia-jacquard/5.jpg",
+        "assets/img/prodotti/lj-maglia-jacquard/6.jpg",
+        "assets/img/prodotti/lj-maglia-jacquard/7.jpg"
+      ],
+      "type": "maglieria",
+      "id": "lj-maglia-jacquard",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Nero",
+        "en": "Black"
+      },
+      "brand": "Liu Jo",
+      "price": 65,
+      "name": {
+        "it": "T-shirt maniche lunghe monogram",
+        "en": "Long-sleeve monogram T-shirt"
+      },
+      "code": "TF6245JS003L9312",
+      "bullets": {
+        "it": [
+          "T-shirt in jersey di cotone",
+          "Maniche lunghe",
+          "Girocollo",
+          "Logo monogram con castoni gioiello"
+        ],
+        "en": [
+          "Cotton jersey T-shirt",
+          "Long sleeves",
+          "Crew neck",
+          "Monogram logo with jewel settings"
+        ]
+      },
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#1d1d1d",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/lj-tshirt-monogram/1.jpg",
+        "assets/img/prodotti/lj-tshirt-monogram/2.jpg",
+        "assets/img/prodotti/lj-tshirt-monogram/3.jpg",
+        "assets/img/prodotti/lj-tshirt-monogram/4.jpg",
+        "assets/img/prodotti/lj-tshirt-monogram/5.jpg",
+        "assets/img/prodotti/lj-tshirt-monogram/6.jpg",
+        "assets/img/prodotti/lj-tshirt-monogram/7.jpg"
+      ],
+      "type": "tshirt",
+      "id": "lj-tshirt-monogram",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Marrone",
+        "en": "Brown"
+      },
+      "brand": "Armani Exchange",
+      "price": 165,
+      "name": {
+        "it": "Borsa hobo effetto pelle con placca logo",
+        "en": "Soft hobo shoulder bag with logo plaque"
+      },
+      "code": "XW003002 AF11902 U6032",
+      "bullets": {
+        "it": [
+          "Borsa a spalla dal design morbido",
+          "Interno spazioso",
+          "Finitura testurizzata",
+          "Manici robusti",
+          "Placca con logo frontale"
+        ],
+        "en": [
+          "Soft-design shoulder bag",
+          "Roomy interior",
+          "Textured finish",
+          "Sturdy handles",
+          "Front logo plaque"
+        ]
+      },
+      "sizes": [
+        "U"
+      ],
+      "tone": "#4a3b33",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/ax-borsa-hobo/1.jpg",
+        "assets/img/prodotti/ax-borsa-hobo/6.jpg",
+        "assets/img/prodotti/ax-borsa-hobo/2.jpg",
+        "assets/img/prodotti/ax-borsa-hobo/3.jpg",
+        "assets/img/prodotti/ax-borsa-hobo/4.jpg",
+        "assets/img/prodotti/ax-borsa-hobo/5.jpg",
+        "assets/img/prodotti/ax-borsa-hobo/7.jpg"
+      ],
+      "type": "borse",
+      "id": "ax-borsa-hobo",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Beige",
+        "en": "Beige"
+      },
+      "brand": "Happy Socks",
+      "price": 12,
+      "name": {
+        "it": "Calze Camping",
+        "en": "Camping Sock"
+      },
+      "code": "P006390",
+      "bullets": {
+        "it": [
+          "Calza al polpaccio",
+          "Paesaggio da campeggio illustrato tutto intorno",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato"
+        ],
+        "en": [
+          "Crew sock",
+          "Wrap-around camping landscape illustration",
+          "Reinforced heel and toe",
+          "Combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#c9a77c",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-calze-camping/1.jpg",
+        "assets/img/prodotti/hs-calze-camping/2.jpg"
+      ],
+      "type": "calze",
+      "id": "hs-calze-camping",
+      "look": [],
+      "lowStock": true
+    },
+    {
+      "color": {
+        "it": "Blu navy",
+        "en": "Navy"
+      },
+      "brand": "Happy Socks",
+      "price": 12,
+      "name": {
+        "it": "Calze a righe e blocchi",
+        "en": "Blocked Stripe Sock"
+      },
+      "code": "P006254",
+      "bullets": {
+        "it": [
+          "Calza al polpaccio",
+          "Righe blu navy e verdi con blocchi bordeaux e pois",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato"
+        ],
+        "en": [
+          "Crew sock",
+          "Navy and green stripes with burgundy blocks and polka dots",
+          "Reinforced heel and toe",
+          "Combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#2b3550",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-calze-righe-blocchi/1.jpg",
+        "assets/img/prodotti/hs-calze-righe-blocchi/2.jpg"
+      ],
+      "type": "calze",
+      "id": "hs-calze-righe-blocchi",
+      "look": [],
+      "lowStock": true
+    },
+    {
+      "color": {
+        "it": "Blu navy",
+        "en": "Navy"
+      },
+      "brand": "Happy Socks",
+      "price": 12,
+      "name": {
+        "it": "Calze a righe ondulate",
+        "en": "Wobbly Stripe Sock"
+      },
+      "code": "P006276",
+      "bullets": {
+        "it": [
+          "Calza al polpaccio",
+          "Righe ondulate azzurre e grigie su fondo blu navy",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato"
+        ],
+        "en": [
+          "Crew sock",
+          "Light blue and grey wobbly stripes on dark navy",
+          "Reinforced heel and toe",
+          "Combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#1f2a44",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-calze-righe-ondulate/1.jpg",
+        "assets/img/prodotti/hs-calze-righe-ondulate/2.jpg"
+      ],
+      "type": "calze",
+      "id": "hs-calze-righe-ondulate",
+      "look": [],
+      "lowStock": true
+    },
+    {
+      "color": {
+        "it": "Nero",
+        "en": "Black"
+      },
+      "brand": "Happy Socks",
+      "price": 12,
+      "name": {
+        "it": "Calze a righe verticali",
+        "en": "Vertical Stripe Sock"
+      },
+      "code": "P006307",
+      "bullets": {
+        "it": [
+          "Calza al polpaccio",
+          "Sottili righe verticali rosse su fondo nero, dal bordo alla punta",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato"
+        ],
+        "en": [
+          "Crew sock",
+          "Thin red vertical pinstripes on black, from cuff to toe",
+          "Reinforced heel and toe",
+          "Combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#141414",
+      "isNew": true,
+      "lowStock": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-calze-righe-verticali/1.jpg",
+        "assets/img/prodotti/hs-calze-righe-verticali/2.jpg"
+      ],
+      "type": "calze",
+      "id": "hs-calze-righe-verticali",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Multicolore",
+        "en": "Multicolour"
+      },
+      "brand": "Happy Socks",
+      "price": 38,
+      "name": {
+        "it": "Box regalo Peanuts (3 paia)",
+        "en": "Peanuts 3-Pack Socks Gift Set"
+      },
+      "code": "P006673",
+      "bullets": {
+        "it": [
+          "Edizione speciale Peanuts",
+          "Box regalo a righe retrò con Snoopy",
+          "3 paia di calze al polpaccio: Garden Chill, Snoopy a righe e The In Crowd",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato biologico"
+        ],
+        "en": [
+          "Peanuts special edition",
+          "Retro striped gift box featuring Snoopy",
+          "3 pairs of crew socks: Garden Chill, Snoopy Stripe and The In Crowd",
+          "Reinforced heel and toe",
+          "Organic combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#4f8a3c",
+      "isNew": true,
+      "lowStock": true,
+      "collection": "Peanuts",
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-box-peanuts-3/1.jpg",
+        "assets/img/prodotti/hs-box-peanuts-3/2.jpg"
+      ],
+      "type": "regali",
+      "id": "hs-box-peanuts-3",
+      "look": [
+        "hs-calze-peanuts-garden-chill",
+        "hs-calze-snoopy-righe",
+        "hs-calze-peanuts-in-crowd"
+      ]
+    },
+    {
+      "color": {
+        "it": "Nero",
+        "en": "Black"
+      },
+      "brand": "Happy Socks",
+      "price": 14,
+      "name": {
+        "it": "Calze Peanuts Snoopy a righe",
+        "en": "Peanuts Snoopy Stripe Sock"
+      },
+      "code": "P006668",
+      "bullets": {
+        "it": [
+          "Calza al polpaccio",
+          "Righe nere, blu e gialle che incorniciano Snoopy",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato biologico"
+        ],
+        "en": [
+          "Crew sock",
+          "Black, blue and yellow stripes framing Snoopy",
+          "Reinforced heel and toe",
+          "Organic combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#141414",
+      "isNew": true,
+      "lowStock": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-calze-snoopy-righe/1.jpg",
+        "assets/img/prodotti/hs-calze-snoopy-righe/2.jpg",
+        "assets/img/prodotti/hs-calze-snoopy-righe/3.jpg"
+      ],
+      "type": "calze",
+      "id": "hs-calze-snoopy-righe",
+      "look": [],
+      "collection": "Peanuts"
+    },
+    {
+      "color": {
+        "it": "Nero",
+        "en": "Black"
+      },
+      "brand": "Happy Socks",
+      "price": 14,
+      "name": {
+        "it": "Calze Peanuts Snoopy a righe",
+        "en": "Peanuts Snoopy Stripe Sock"
+      },
+      "code": "P006668",
+      "bullets": {
+        "it": [
+          "Calza al polpaccio",
+          "Righe nere, blu e gialle che incorniciano Snoopy",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato biologico"
+        ],
+        "en": [
+          "Crew sock",
+          "Black, blue and yellow stripes framing Snoopy",
+          "Reinforced heel and toe",
+          "Organic combed cotton"
+        ]
+      },
+      "sizes": [
+        "36-40"
+      ],
+      "tone": "#141414",
+      "isNew": true,
+      "lowStock": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/hs-calze-snoopy-righe/1.jpg",
+        "assets/img/prodotti/hs-calze-snoopy-righe/2.jpg",
+        "assets/img/prodotti/hs-calze-snoopy-righe/3.jpg"
+      ],
+      "type": "calze",
+      "id": "hs-calze-snoopy-righe-donna",
+      "look": [],
+      "collection": "Peanuts"
+    },
+    {
+      "color": {
+        "it": "Bianco",
+        "en": "White"
+      },
+      "brand": "Happy Socks",
+      "price": 14,
+      "name": {
+        "it": "Calze Peanuts The In Crowd",
+        "en": "Peanuts The In Crowd Sock"
+      },
+      "code": "P006669",
+      "bullets": {
+        "it": [
+          "Edizione speciale Peanuts",
+          "Calza al polpaccio",
+          "Disegno a fumetto in bianco e nero con tutta la banda Peanuts, da Charlie Brown a Lucy",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato biologico"
+        ],
+        "en": [
+          "Peanuts special edition",
+          "Crew sock",
+          "Black-and-white comic sketch of the whole Peanuts gang, from Charlie Brown to Lucy",
+          "Reinforced heel and toe",
+          "Organic combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#f2f2f0",
+      "isNew": true,
+      "lowStock": true,
+      "collection": "Peanuts",
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-calze-peanuts-in-crowd/1.jpg",
+        "assets/img/prodotti/hs-calze-peanuts-in-crowd/2.jpg",
+        "assets/img/prodotti/hs-calze-peanuts-in-crowd/3.jpg"
+      ],
+      "type": "calze",
+      "id": "hs-calze-peanuts-in-crowd",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Verde",
+        "en": "Green"
+      },
+      "brand": "Happy Socks",
+      "price": 14,
+      "name": {
+        "it": "Calze Peanuts Garden Chill",
+        "en": "Peanuts Garden Chill Sock"
+      },
+      "code": "P006667",
+      "bullets": {
+        "it": [
+          "Edizione speciale Peanuts",
+          "Calza al polpaccio",
+          "Snoopy che sonnecchia sulla cuccia rossa e Woodstock vicino alla punta, su fondo verde e giallo",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato biologico"
+        ],
+        "en": [
+          "Peanuts special edition",
+          "Crew sock",
+          "Snoopy napping on his red doghouse with Woodstock near the toe, on green and yellow",
+          "Reinforced heel and toe",
+          "Organic combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#4f8a3c",
+      "isNew": true,
+      "collection": "Peanuts",
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-calze-peanuts-garden-chill/1.jpg",
+        "assets/img/prodotti/hs-calze-peanuts-garden-chill/2.jpg"
+      ],
+      "type": "calze",
+      "id": "hs-calze-peanuts-garden-chill",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Blu navy",
+        "en": "Navy"
+      },
+      "brand": "Happy Socks",
+      "price": 14,
+      "name": {
+        "it": "Calze STAR WARS™ Stormtrooper",
+        "en": "STAR WARS™ Stormtroopers Socks"
+      },
+      "code": "P006519",
+      "bullets": {
+        "it": [
+          "Edizione speciale STAR WARS™",
+          "Calza al polpaccio",
+          "Caschi degli Stormtrooper in bianco e nero su tutta la calza",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato biologico"
+        ],
+        "en": [
+          "STAR WARS™ special edition",
+          "Crew sock",
+          "All-over black and white Stormtrooper helmets",
+          "Reinforced heel and toe",
+          "Organic combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#1f2a44",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-calze-star-wars-stormtrooper/1.jpg",
+        "assets/img/prodotti/hs-calze-star-wars-stormtrooper/2.jpg"
+      ],
+      "type": "calze",
+      "id": "hs-calze-star-wars-stormtrooper",
+      "look": [],
+      "collection": "STAR WARS™"
+    },
+    {
+      "color": {
+        "it": "Blu navy",
+        "en": "Navy"
+      },
+      "brand": "Happy Socks",
+      "price": 14,
+      "name": {
+        "it": "Calze STAR WARS™ Maestro Yoda",
+        "en": "STAR WARS™ Master Yoda Sock"
+      },
+      "code": "P006520",
+      "bullets": {
+        "it": [
+          "Edizione speciale STAR WARS™",
+          "Calza al polpaccio",
+          "Maestro Yoda ripetuto su fondo blu navy, bordo, tallone e punta rossi",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato biologico"
+        ],
+        "en": [
+          "STAR WARS™ special edition",
+          "Crew sock",
+          "Repeating Master Yoda on a dark navy base, red cuff, heel and toe",
+          "Reinforced heel and toe",
+          "Organic combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#1f2a44",
+      "isNew": true,
+      "collection": "STAR WARS™",
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-calze-star-wars-yoda/1.jpg",
+        "assets/img/prodotti/hs-calze-star-wars-yoda/2.jpg",
+        "assets/img/prodotti/hs-calze-star-wars-yoda/3.jpg"
+      ],
+      "type": "calze",
+      "id": "hs-calze-star-wars-yoda",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Nero",
+        "en": "Black"
+      },
+      "brand": "Happy Socks",
+      "price": 12,
+      "name": {
+        "it": "Calze Gatti",
+        "en": "Cat Sock"
+      },
+      "code": "P006473",
+      "bullets": {
+        "it": [
+          "Calza al polpaccio",
+          "Sagome di gatti incastrate in colori pastello su fondo nero",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato"
+        ],
+        "en": [
+          "Crew sock",
+          "All-over interlocking cat silhouettes in pastel shades on black",
+          "Reinforced heel and toe",
+          "Combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#141414",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-calze-gatti/1.jpg",
+        "assets/img/prodotti/hs-calze-gatti/2.jpg"
+      ],
+      "type": "calze",
+      "id": "hs-calze-gatti",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Nero",
+        "en": "Black"
+      },
+      "brand": "Happy Socks",
+      "price": 12,
+      "name": {
+        "it": "Calze Gatti",
+        "en": "Cat Sock"
+      },
+      "code": "P006473",
+      "bullets": {
+        "it": [
+          "Calza al polpaccio",
+          "Sagome di gatti incastrate in colori pastello su fondo nero",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato"
+        ],
+        "en": [
+          "Crew sock",
+          "All-over interlocking cat silhouettes in pastel shades on black",
+          "Reinforced heel and toe",
+          "Combed cotton"
+        ]
+      },
+      "sizes": [
+        "36-40"
+      ],
+      "tone": "#141414",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/hs-calze-gatti/1.jpg",
+        "assets/img/prodotti/hs-calze-gatti/2.jpg"
+      ],
+      "type": "calze",
+      "id": "hs-calze-gatti-donna",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Bordeaux",
+        "en": "Burgundy"
+      },
+      "brand": "Happy Socks",
+      "price": 12,
+      "name": {
+        "it": "Calze Argyle",
+        "en": "Argyle Sock"
+      },
+      "code": "P006472",
+      "bullets": {
+        "it": [
+          "Calza al polpaccio",
+          "Classico motivo argyle a rombi blu navy e rossi su fondo bordeaux",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato"
+        ],
+        "en": [
+          "Crew sock",
+          "Classic navy and red diamond argyle on deep burgundy",
+          "Reinforced heel and toe",
+          "Combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#6b1f2a",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-calze-argyle/1.jpg",
+        "assets/img/prodotti/hs-calze-argyle/2.jpg"
+      ],
+      "type": "calze",
+      "id": "hs-calze-argyle",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Blu navy",
+        "en": "Navy"
+      },
+      "brand": "Happy Socks",
+      "price": 12,
+      "name": {
+        "it": "Calze Puppy Love",
+        "en": "Puppy Love Sock"
+      },
+      "code": "PUL01-6500",
+      "bullets": {
+        "it": [
+          "Calza al polpaccio",
+          "Cagnolini bassotto colorati su fondo blu navy",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato",
+          "Idea regalo per chi ama i cani"
+        ],
+        "en": [
+          "Crew sock",
+          "Colourful dachshund print on navy",
+          "Reinforced heel and toe",
+          "Combed cotton",
+          "Perfect gift for dog lovers"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#1f2a44",
+      "isNew": true,
+      "lowStock": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-calze-puppy-love/1.jpg",
+        "assets/img/prodotti/hs-calze-puppy-love/2.jpg",
+        "assets/img/prodotti/hs-calze-puppy-love/3.jpg"
+      ],
+      "type": "calze",
+      "id": "hs-calze-puppy-love",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Nero",
+        "en": "Black"
+      },
+      "brand": "Happy Socks",
+      "price": 12,
+      "name": {
+        "it": "Calze Mini Tulipani",
+        "en": "Mini Tulip Sock"
+      },
+      "code": "P006294",
+      "bullets": {
+        "it": [
+          "Calza al polpaccio",
+          "Piccoli tulipani multicolore su fondo nero",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato"
+        ],
+        "en": [
+          "Crew sock",
+          "Tiny multi-coloured tulip pattern on black",
+          "Reinforced heel and toe",
+          "Combed cotton"
+        ]
+      },
+      "sizes": [
+        "36-40"
+      ],
+      "tone": "#141414",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/hs-calze-tulipani/1.jpg",
+        "assets/img/prodotti/hs-calze-tulipani/2.jpg"
+      ],
+      "type": "calze",
+      "id": "hs-calze-tulipani",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Nero",
+        "en": "Black"
+      },
+      "brand": "Happy Socks",
+      "price": 12,
+      "name": {
+        "it": "Calze Orsi",
+        "en": "Bear Sock"
+      },
+      "code": "P006299",
+      "bullets": {
+        "it": [
+          "Calza al polpaccio",
+          "Orsi in piedi e in cammino nei toni del marrone, grigio e bianco su fondo nero",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato"
+        ],
+        "en": [
+          "Crew sock",
+          "Standing and walking bears in brown, grey and white on pitch black",
+          "Reinforced heel and toe",
+          "Combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#141414",
+      "isNew": true,
+      "lowStock": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-calze-orsi/1.jpg",
+        "assets/img/prodotti/hs-calze-orsi/2.jpg"
+      ],
+      "type": "calze",
+      "id": "hs-calze-orsi",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Marrone",
+        "en": "Brown"
+      },
+      "brand": "Happy Socks",
+      "price": 12,
+      "name": {
+        "it": "Calze Fiori verticali",
+        "en": "Vertical Flowers Sock"
+      },
+      "code": "P006469",
+      "bullets": {
+        "it": [
+          "Calza al polpaccio",
+          "Fondo marrone con larga riga verticale azzurra e una colonna di fiori rossi",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato"
+        ],
+        "en": [
+          "Crew sock",
+          "Earthy brown with a bright blue vertical stripe and a column of bold red flowers",
+          "Reinforced heel and toe",
+          "Combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#6b4a33",
+      "isNew": true,
+      "lowStock": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-calze-fiori-verticali/1.jpg",
+        "assets/img/prodotti/hs-calze-fiori-verticali/2.jpg"
+      ],
+      "type": "calze",
+      "id": "hs-calze-fiori-verticali",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Nero",
+        "en": "Black"
+      },
+      "brand": "Happy Socks",
+      "price": 12,
+      "name": {
+        "it": "Calze Cani",
+        "en": "Dog Sock"
+      },
+      "code": "P006816",
+      "bullets": {
+        "it": [
+          "Calza al polpaccio",
+          "Sagome di cani incastrate in giallo, blu, viola e verde su fondo nero",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato"
+        ],
+        "en": [
+          "Crew sock",
+          "Interlocking dog silhouettes in yellow, blue, purple and green on black",
+          "Reinforced heel and toe",
+          "Combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#141414",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-calze-cani/1.jpg",
+        "assets/img/prodotti/hs-calze-cani/2.jpg"
+      ],
+      "type": "calze",
+      "id": "hs-calze-cani",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Nero",
+        "en": "Black"
+      },
+      "brand": "Happy Socks",
+      "price": 12,
+      "name": {
+        "it": "Calze Plus",
+        "en": "Plus Sock"
+      },
+      "code": "P006117",
+      "bullets": {
+        "it": [
+          "Calza al polpaccio",
+          "Crocette bianche ripetute su fondo nero, stile minimal",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato"
+        ],
+        "en": [
+          "Crew sock",
+          "Repeating bright white plus signs on black, minimalist look",
+          "Reinforced heel and toe",
+          "Combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#141414",
+      "isNew": true,
+      "lowStock": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-calze-plus/1.jpg",
+        "assets/img/prodotti/hs-calze-plus/2.jpg"
+      ],
+      "type": "calze",
+      "id": "hs-calze-plus",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Bianco",
+        "en": "White"
+      },
+      "brand": "Happy Socks",
+      "price": 10,
+      "name": {
+        "it": "Calze sportive Lupo",
+        "en": "Wolf Sneaker Sock"
+      },
+      "code": "P006387",
+      "bullets": {
+        "it": [
+          "Calza sportiva al polpaccio, bordo a costine",
+          "Bianca con lupo geometrico nero vicino al bordo",
+          "Sostegno per l'arco plantare e punta senza cuciture",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato"
+        ],
+        "en": [
+          "Sneaker crew sock with ribbed cuff",
+          "Solid white with a black geometric wolf near the cuff",
+          "Arch support and seamless toe",
+          "Reinforced heel and toe",
+          "Combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#f2f2f0",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-calze-sneaker-lupo/1.jpg",
+        "assets/img/prodotti/hs-calze-sneaker-lupo/2.jpg"
+      ],
+      "type": "calze",
+      "id": "hs-calze-sneaker-lupo",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Blu navy",
+        "en": "Navy"
+      },
+      "brand": "Happy Socks",
+      "price": 14,
+      "name": {
+        "it": "Confezione regalo Gingerbread Cookies (1 paio)",
+        "en": "1-Pack Gingerbread Cookies Socks Gift Set"
+      },
+      "code": "P000405",
+      "bullets": {
+        "it": [
+          "Confezione regalo natalizia da appendere all'albero",
+          "1 paio di calze al polpaccio",
+          "Biscotti di pan di zenzero su fondo blu navy",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato"
+        ],
+        "en": [
+          "Holiday gift box you can hang on the Christmas tree",
+          "1 pair of crew socks",
+          "Gingerbread cookies on navy",
+          "Reinforced heel and toe",
+          "Combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#1f2a44",
+      "isNew": true,
+      "lowStock": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-regalo-gingerbread/1.jpg",
+        "assets/img/prodotti/hs-regalo-gingerbread/2.jpg",
+        "assets/img/prodotti/hs-regalo-gingerbread/3.jpg"
+      ],
+      "type": "regali",
+      "id": "hs-regalo-gingerbread",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Blu",
+        "en": "Blue"
+      },
+      "brand": "Happy Socks",
+      "price": 14,
+      "name": {
+        "it": "Confezione regalo Santa On The Way (1 paio)",
+        "en": "1-Pack Santa On The Way Sock Gift Set"
+      },
+      "code": "P006085",
+      "bullets": {
+        "it": [
+          "Confezione regalo natalizia rotonda da appendere all'albero",
+          "1 paio di calze al polpaccio",
+          "Babbo Natale in viaggio tra alberi innevati, blu e bianco",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato"
+        ],
+        "en": [
+          "Round holiday gift box you can hang on the tree",
+          "1 pair of crew socks",
+          "Santa on his way among snowy trees, blue and white",
+          "Reinforced heel and toe",
+          "Combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#2a4aa0",
+      "isNew": true,
+      "lowStock": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-regalo-santa/1.jpg",
+        "assets/img/prodotti/hs-regalo-santa/2.jpg",
+        "assets/img/prodotti/hs-regalo-santa/3.jpg"
+      ],
+      "type": "regali",
+      "id": "hs-regalo-santa",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Blu e rosso",
+        "en": "Blue and red"
+      },
+      "brand": "Happy Socks",
+      "price": 20,
+      "name": {
+        "it": "Box regalo Wine (2 paia)",
+        "en": "2-Pack Wine Socks Gift Set"
+      },
+      "code": "P001837",
+      "bullets": {
+        "it": [
+          "Box regalo a tema vino",
+          "2 paia di calze al polpaccio con bicchieri e bottiglie di vino",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato morbido e traspirante"
+        ],
+        "en": [
+          "Wine-themed gift box",
+          "2 pairs of crew socks with wine glasses and bottles",
+          "Reinforced heel and toe",
+          "Soft, breathable combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#c8102e",
+      "isNew": true,
+      "lowStock": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-box-wine-2/1.jpg",
+        "assets/img/prodotti/hs-box-wine-2/2.jpg",
+        "assets/img/prodotti/hs-box-wine-2/3.jpg",
+        "assets/img/prodotti/hs-box-wine-2/4.jpg"
+      ],
+      "type": "regali",
+      "id": "hs-box-wine-2",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Nero",
+        "en": "Black"
+      },
+      "brand": "Happy Socks",
+      "price": 14,
+      "name": {
+        "it": "Confezione regalo Hot Chocolate (1 paio)",
+        "en": "1-Pack Hot Chocolate Sock Gift Set"
+      },
+      "code": "P006099",
+      "bullets": {
+        "it": [
+          "Confezione regalo a forma di bicchiere da caffetteria",
+          "1 paio di calze al polpaccio",
+          "Tazze di cioccolata calda con marshmallow su fondo nero",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato"
+        ],
+        "en": [
+          "Gift pack shaped like a café hot-drink cup",
+          "1 pair of crew socks",
+          "Steaming mugs of hot chocolate with marshmallows on black",
+          "Reinforced heel and toe",
+          "Combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#141414",
+      "isNew": true,
+      "lowStock": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-regalo-hot-chocolate/1.jpg",
+        "assets/img/prodotti/hs-regalo-hot-chocolate/2.jpg",
+        "assets/img/prodotti/hs-regalo-hot-chocolate/3.jpg"
+      ],
+      "type": "regali",
+      "id": "hs-regalo-hot-chocolate",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Blu navy",
+        "en": "Navy"
+      },
+      "brand": "Happy Socks",
+      "price": 14,
+      "name": {
+        "it": "Confezione regalo Beer (1 paio)",
+        "en": "1-Pack Beer Sock Gift Set"
+      },
+      "code": "P006051",
+      "bullets": {
+        "it": [
+          "Confezione regalo a forma di lattina di birra",
+          "1 paio di calze al polpaccio a tema birra",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato"
+        ],
+        "en": [
+          "Novelty beer-can gift pack",
+          "1 pair of beer-motif crew socks",
+          "Reinforced heel and toe",
+          "Combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#1f2a44",
+      "isNew": true,
+      "lowStock": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-regalo-beer/1.jpg",
+        "assets/img/prodotti/hs-regalo-beer/2.jpg",
+        "assets/img/prodotti/hs-regalo-beer/3.jpg"
+      ],
+      "type": "regali",
+      "id": "hs-regalo-beer",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Nero e rosso",
+        "en": "Black and red"
+      },
+      "brand": "Happy Socks",
+      "price": 20,
+      "name": {
+        "it": "Box regalo Merry Cracker (2 paia)",
+        "en": "2-Pack Merry Cracker Socks Gift Set"
+      },
+      "code": "P006084",
+      "bullets": {
+        "it": [
+          "Box regalo natalizia a prisma triangolare",
+          "2 paia di calze al polpaccio: Babbo Natale e stelle su fondo nero, Babbo Natale a righe",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato"
+        ],
+        "en": [
+          "Triangular prism holiday gift box",
+          "2 pairs of crew socks: black Santa and Stars, Santa Stripes",
+          "Reinforced heel and toe",
+          "Combed cotton"
+        ]
+      },
+      "sizes": [
+        "41-46"
+      ],
+      "tone": "#141414",
+      "isNew": true,
+      "lowStock": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/hs-box-merry-cracker-2/1.jpg",
+        "assets/img/prodotti/hs-box-merry-cracker-2/2.jpg",
+        "assets/img/prodotti/hs-box-merry-cracker-2/3.jpg",
+        "assets/img/prodotti/hs-box-merry-cracker-2/4.jpg"
+      ],
+      "type": "regali",
+      "id": "hs-box-merry-cracker-2",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Rosa e blu",
+        "en": "Pink and blue"
+      },
+      "brand": "Happy Socks",
+      "price": 20,
+      "name": {
+        "it": "Box regalo Lucky Neko (2 paia)",
+        "en": "2-Pack Lucky Neko Socks Gift Set"
+      },
+      "code": "P006080",
+      "bullets": {
+        "it": [
+          "Box regalo a forma di Maneki-neko, il gatto portafortuna",
+          "2 paia di calze al polpaccio: Lucky Cat rosa e righe ondulate blu e rosa",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato"
+        ],
+        "en": [
+          "Gift box shaped like a Maneki-neko lucky cat",
+          "2 pairs of crew socks: pink Lucky Cat and blue/pink Wobbly Stripe",
+          "Reinforced heel and toe",
+          "Combed cotton"
+        ]
+      },
+      "sizes": [
+        "36-40"
+      ],
+      "tone": "#e85a9a",
+      "isNew": true,
+      "lowStock": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/hs-box-lucky-neko-2/1.jpg",
+        "assets/img/prodotti/hs-box-lucky-neko-2/2.jpg",
+        "assets/img/prodotti/hs-box-lucky-neko-2/3.jpg",
+        "assets/img/prodotti/hs-box-lucky-neko-2/4.jpg"
+      ],
+      "type": "regali",
+      "id": "hs-box-lucky-neko-2",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Blu",
+        "en": "Blue"
+      },
+      "brand": "Happy Socks",
+      "price": 14,
+      "name": {
+        "it": "Confezione regalo Santa On The Way (1 paio)",
+        "en": "1-Pack Santa On The Way Sock Gift Set"
+      },
+      "code": "P006085",
+      "bullets": {
+        "it": [
+          "Confezione regalo natalizia rotonda da appendere all'albero",
+          "1 paio di calze al polpaccio",
+          "Babbo Natale in viaggio tra alberi innevati, blu e bianco",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato"
+        ],
+        "en": [
+          "Round holiday gift box you can hang on the tree",
+          "1 pair of crew socks",
+          "Santa on his way among snowy trees, blue and white",
+          "Reinforced heel and toe",
+          "Combed cotton"
+        ]
+      },
+      "sizes": [
+        "36-40"
+      ],
+      "tone": "#2a4aa0",
+      "isNew": true,
+      "lowStock": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/hs-regalo-santa/1.jpg",
+        "assets/img/prodotti/hs-regalo-santa/2.jpg",
+        "assets/img/prodotti/hs-regalo-santa/3.jpg"
+      ],
+      "type": "regali",
+      "id": "hs-regalo-santa-donna",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Blu navy e rosso",
+        "en": "Navy and red"
+      },
+      "brand": "Happy Socks",
+      "price": 20,
+      "name": {
+        "it": "Box regalo Holiday Heart (2 paia)",
+        "en": "2-Pack Holiday Heart Socks Gift Set"
+      },
+      "code": "P006082",
+      "bullets": {
+        "it": [
+          "Box regalo a forma di cuore in stile folk, con nastro per appenderla",
+          "2 paia di calze al polpaccio: Little Santa e Christmas Decorations",
+          "Tallone e punta rinforzati",
+          "Cotone pettinato"
+        ],
+        "en": [
+          "Folk-art heart-shaped gift box with ribbon hanger",
+          "2 pairs of crew socks: Little Santa and Christmas Decorations",
+          "Reinforced heel and toe",
+          "Combed cotton"
+        ]
+      },
+      "sizes": [
+        "36-40"
+      ],
+      "tone": "#1f2a44",
+      "isNew": true,
+      "lowStock": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/hs-box-holiday-heart-2/1.jpg",
+        "assets/img/prodotti/hs-box-holiday-heart-2/2.jpg",
+        "assets/img/prodotti/hs-box-holiday-heart-2/3.jpg",
+        "assets/img/prodotti/hs-box-holiday-heart-2/4.jpg"
+      ],
+      "type": "regali",
+      "id": "hs-box-holiday-heart-2",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Blu",
+        "en": "Blue"
+      },
+      "brand": "Gallo",
+      "price": 33,
+      "name": {
+        "it": "Calze lunghe a quadri concentrici blu",
+        "en": "Navy concentric squares long socks"
+      },
+      "code": "AP51529112670",
+      "bullets": {
+        "it": [
+          "Calza lunga da uomo",
+          "Fantasia a quadri concentrici nei toni del blu",
+          "Cotone caldo, morbidissimo, made in Italy",
+          "Logo Gallo in punta a contrasto",
+          "Taglia unica 40-45"
+        ],
+        "en": [
+          "Men's long sock",
+          "Concentric squares pattern in shades of blue",
+          "Warm, ultra-soft cotton, made in Italy",
+          "Contrasting Gallo logo on the toe",
+          "One size 40-45"
+        ]
+      },
+      "sizes": [
+        "40-45"
+      ],
+      "tone": "#1f2a44",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/gallo-calze-quadri-concentrici-blu/1.jpg"
+      ],
+      "type": "calze",
+      "id": "gallo-calze-quadri-concentrici-blu",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Verde",
+        "en": "Green"
+      },
+      "brand": "Gallo",
+      "price": 33,
+      "name": {
+        "it": "Calze lunghe a quadri concentrici verdi",
+        "en": "Green concentric squares long socks"
+      },
+      "code": "AP51598432125",
+      "bullets": {
+        "it": [
+          "Calza lunga da uomo",
+          "Fantasia a quadri concentrici nei toni del verde",
+          "Cotone leggero, made in Italy",
+          "Logo Gallo in punta a contrasto",
+          "Taglia unica 40-45"
+        ],
+        "en": [
+          "Men's long sock",
+          "Concentric squares pattern in shades of green",
+          "Lightweight cotton, made in Italy",
+          "Contrasting Gallo logo on the toe",
+          "One size 40-45"
+        ]
+      },
+      "sizes": [
+        "40-45"
+      ],
+      "tone": "#3d6b45",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/gallo-calze-quadri-concentrici-verde/1.jpg"
+      ],
+      "type": "calze",
+      "id": "gallo-calze-quadri-concentrici-verde",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Verde",
+        "en": "Green"
+      },
+      "brand": "Gallo",
+      "price": 33,
+      "name": {
+        "it": "Calze lunghe verde scuro a pois arancio",
+        "en": "Dark green long socks with orange polka dots"
+      },
+      "code": "AP10301332654",
+      "bullets": {
+        "it": [
+          "Calza lunga da uomo",
+          "L'iconica fantasia a pois Gallo nei toni del verde",
+          "Cotone morbidissimo, made in Italy",
+          "Logo Gallo in punta a contrasto",
+          "Taglia unica 40-45"
+        ],
+        "en": [
+          "Men's long sock",
+          "Gallo's iconic polka dots in shades of green",
+          "Ultra-soft cotton, made in Italy",
+          "Contrasting Gallo logo on the toe",
+          "One size 40-45"
+        ]
+      },
+      "sizes": [
+        "40-45"
+      ],
+      "tone": "#3d6b45",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/gallo-calze-pois-verde/1.jpg",
+        "assets/img/prodotti/gallo-calze-pois-verde/2.jpg"
+      ],
+      "type": "calze",
+      "id": "gallo-calze-pois-verde",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Blu",
+        "en": "Blue"
+      },
+      "brand": "Gallo",
+      "price": 33,
+      "name": {
+        "it": "Calze lunghe blu a pois, tallone e punta gialli",
+        "en": "Blue polka dot long socks, yellow heel and toe"
+      },
+      "code": "AP10301333004",
+      "bullets": {
+        "it": [
+          "Calza lunga da uomo",
+          "L'iconica fantasia a pois Gallo nei toni del blu",
+          "Cotone caldo, morbidissimo, made in Italy",
+          "Logo Gallo in punta a contrasto",
+          "Taglia unica 40-45"
+        ],
+        "en": [
+          "Men's long sock",
+          "Gallo's iconic polka dots in shades of blue",
+          "Warm, ultra-soft cotton, made in Italy",
+          "Contrasting Gallo logo on the toe",
+          "One size 40-45"
+        ]
+      },
+      "sizes": [
+        "40-45"
+      ],
+      "tone": "#1f2a44",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/gallo-calze-pois-blu-caldo/1.jpg",
+        "assets/img/prodotti/gallo-calze-pois-blu-caldo/2.jpg"
+      ],
+      "type": "calze",
+      "id": "gallo-calze-pois-blu-caldo",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Blu",
+        "en": "Blue"
+      },
+      "brand": "Gallo",
+      "price": 33,
+      "name": {
+        "it": "Calze lunghe blu a pois, tallone e punta verdi",
+        "en": "Blue polka dot long socks, green heel and toe"
+      },
+      "code": "AP10301333005",
+      "bullets": {
+        "it": [
+          "Calza lunga da uomo",
+          "L'iconica fantasia a pois Gallo nei toni del blu",
+          "Cotone caldo, morbidissimo, made in Italy",
+          "Logo Gallo in punta a contrasto",
+          "Taglia unica 40-45"
+        ],
+        "en": [
+          "Men's long sock",
+          "Gallo's iconic polka dots in shades of blue",
+          "Warm, ultra-soft cotton, made in Italy",
+          "Contrasting Gallo logo on the toe",
+          "One size 40-45"
+        ]
+      },
+      "sizes": [
+        "40-45"
+      ],
+      "tone": "#1f2a44",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/gallo-calze-pois-blu-caldo-2/1.jpg"
+      ],
+      "type": "calze",
+      "id": "gallo-calze-pois-blu-caldo-2",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Blu",
+        "en": "Blue"
+      },
+      "brand": "Gallo",
+      "price": 33,
+      "name": {
+        "it": "Calze lunghe blu a pois, tallone e punta grigi",
+        "en": "Blue polka dot long socks, grey heel and toe"
+      },
+      "code": "AP10301312860",
+      "bullets": {
+        "it": [
+          "Calza lunga da uomo",
+          "L'iconica fantasia a pois Gallo nei toni del blu",
+          "Cotone morbidissimo, made in Italy",
+          "Logo Gallo in punta a contrasto",
+          "Taglia unica 40-45"
+        ],
+        "en": [
+          "Men's long sock",
+          "Gallo's iconic polka dots in shades of blue",
+          "Ultra-soft cotton, made in Italy",
+          "Contrasting Gallo logo on the toe",
+          "One size 40-45"
+        ]
+      },
+      "sizes": [
+        "40-45"
+      ],
+      "tone": "#1f2a44",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/gallo-calze-pois-blu/1.jpg",
+        "assets/img/prodotti/gallo-calze-pois-blu/2.jpg"
+      ],
+      "type": "calze",
+      "id": "gallo-calze-pois-blu",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Blu",
+        "en": "Blue"
+      },
+      "brand": "Gallo",
+      "price": 33,
+      "name": {
+        "it": "Calze lunghe blu a pois, tallone e punta arancio",
+        "en": "Blue polka dot long socks, orange heel and toe"
+      },
+      "code": "AP10361332850",
+      "bullets": {
+        "it": [
+          "Calza lunga da uomo",
+          "L'iconica fantasia a pois Gallo nei toni del blu",
+          "Cotone leggero, made in Italy",
+          "Logo Gallo in punta a contrasto",
+          "Taglia unica 40-45"
+        ],
+        "en": [
+          "Men's long sock",
+          "Gallo's iconic polka dots in shades of blue",
+          "Lightweight cotton, made in Italy",
+          "Contrasting Gallo logo on the toe",
+          "One size 40-45"
+        ]
+      },
+      "sizes": [
+        "40-45"
+      ],
+      "tone": "#1f2a44",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/gallo-calze-pois-blu-leggero/1.jpg"
+      ],
+      "type": "calze",
+      "id": "gallo-calze-pois-blu-leggero",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Blu",
+        "en": "Blue"
+      },
+      "brand": "Gallo",
+      "price": 33,
+      "name": {
+        "it": "Calze lunghe a righe e pois azzurre",
+        "en": "Light blue stripes and polka dots long socks"
+      },
+      "code": "AP51383213172",
+      "bullets": {
+        "it": [
+          "Calza lunga da uomo",
+          "Fantasia Gallo che mixa righe e pois su fondo blu",
+          "Cotone leggero, made in Italy",
+          "Logo Gallo in punta a contrasto",
+          "Taglia unica 40-45"
+        ],
+        "en": [
+          "Men's long sock",
+          "Gallo pattern mixing stripes and polka dots on blue",
+          "Lightweight cotton, made in Italy",
+          "Contrasting Gallo logo on the toe",
+          "One size 40-45"
+        ]
+      },
+      "sizes": [
+        "40-45"
+      ],
+      "tone": "#1f2a44",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/gallo-calze-righe-pois-blu/1.jpg"
+      ],
+      "type": "calze",
+      "id": "gallo-calze-righe-pois-blu",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Blu",
+        "en": "Blue"
+      },
+      "brand": "Gallo",
+      "price": 33,
+      "name": {
+        "it": "Calze lunghe a righe e pois multicolor",
+        "en": "Multicolour stripes and polka dots long socks"
+      },
+      "code": "AP51239313044",
+      "bullets": {
+        "it": [
+          "Calza lunga da uomo",
+          "Fantasia che mixa righe e pois nei toni del blu",
+          "Cotone caldo, morbidissimo, made in Italy",
+          "Logo Gallo in punta a contrasto",
+          "Taglia unica 40-45"
+        ],
+        "en": [
+          "Men's long sock",
+          "Stripes and polka dots mix in shades of blue",
+          "Warm, ultra-soft cotton, made in Italy",
+          "Contrasting Gallo logo on the toe",
+          "One size 40-45"
+        ]
+      },
+      "sizes": [
+        "40-45"
+      ],
+      "tone": "#1f2a44",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/gallo-calze-righe-pois-blu-caldo/1.jpg"
+      ],
+      "type": "calze",
+      "id": "gallo-calze-righe-pois-blu-caldo",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Blu e ocra",
+        "en": "Navy and ochre"
+      },
+      "brand": "Gallo",
+      "price": 33,
+      "name": {
+        "it": "Calze lunghe a righe Windsor blu e ocra",
+        "en": "Navy and ochre Windsor stripe long socks"
+      },
+      "code": "AP10290133013",
+      "bullets": {
+        "it": [
+          "Calza lunga da uomo",
+          "L'iconica fantasia a righe Windsor nei toni del blu",
+          "Cotone caldo, morbidissimo, made in Italy",
+          "Logo Gallo in punta a contrasto",
+          "Taglia unica 40-45"
+        ],
+        "en": [
+          "Men's long sock",
+          "Gallo's iconic Windsor stripes in shades of blue",
+          "Warm, ultra-soft cotton, made in Italy",
+          "Contrasting Gallo logo on the toe",
+          "One size 40-45"
+        ]
+      },
+      "sizes": [
+        "40-45"
+      ],
+      "tone": "#1f2a44",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/gallo-calze-righe-windsor-blu/1.jpg"
+      ],
+      "type": "calze",
+      "id": "gallo-calze-righe-windsor-blu",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Grigio",
+        "en": "Grey"
+      },
+      "brand": "Gallo",
+      "price": 37.5,
+      "name": {
+        "it": "Calze lunghe in cashmere grigie a righine multicolor",
+        "en": "Grey cashmere long socks with multicolour micro stripes"
+      },
+      "code": "AP10285233015",
+      "bullets": {
+        "it": [
+          "Calza lunga da uomo",
+          "Righine multicolor nei toni del grigio",
+          "Cotone e cashmere, made in Italy",
+          "Scritta Gallo ricamata in punta",
+          "Taglia unica 40-45"
+        ],
+        "en": [
+          "Men's long sock",
+          "Multicolour micro stripes in shades of grey",
+          "Cotton and cashmere, made in Italy",
+          "Gallo logo embroidered on the toe",
+          "One size 40-45"
+        ]
+      },
+      "sizes": [
+        "40-45"
+      ],
+      "tone": "#8a8d91",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/gallo-calze-cashmere-righe-grigio/1.jpg"
+      ],
+      "type": "calze",
+      "id": "gallo-calze-cashmere-righe-grigio",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Nero",
+        "en": "Black"
+      },
+      "brand": "Sun68",
+      "price": 100,
+      "name": {
+        "it": "Gilet in teddy nero",
+        "en": "Black teddy vest"
+      },
+      "code": "R4611011",
+      "bullets": {
+        "it": [
+          "Gilet in teddy con dettagli in nylon",
+          "Collo alto",
+          "Taschino con zip nascosta sul petto",
+          "Tasche laterali",
+          "Chiusura con zip a doppio cursore",
+          "Logo SUN68 sul petto"
+        ],
+        "en": [
+          "Teddy vest with nylon details",
+          "High collar",
+          "Chest pocket with hidden zip",
+          "Side pockets",
+          "Two-way zip fastening",
+          "SUN68 logo on the chest"
+        ]
+      },
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "tone": "#1c1c1c",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/sun-gilet-teddy-nero/1.jpg",
+        "assets/img/prodotti/sun-gilet-teddy-nero/2.jpg",
+        "assets/img/prodotti/sun-gilet-teddy-nero/3.jpg",
+        "assets/img/prodotti/sun-gilet-teddy-nero/4.jpg",
+        "assets/img/prodotti/sun-gilet-teddy-nero/5.jpg"
+      ],
+      "type": "capispalla",
+      "id": "sun-gilet-teddy-nero",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Blu navy",
+        "en": "Navy blue"
+      },
+      "brand": "Sun68",
+      "price": 40,
+      "name": {
+        "it": "Berretto beanie in misto lana a coste navy blue",
+        "en": "Navy blue ribbed wool-blend beanie"
+      },
+      "code": "C4610707",
+      "bullets": {
+        "it": [
+          "Berretto beanie in maglia di misto lana",
+          "Lavorazione a coste",
+          "Risvolto",
+          "Patch SUN68"
+        ],
+        "en": [
+          "Wool-blend knit beanie",
+          "Ribbed knit",
+          "Turn-up cuff",
+          "SUN68 patch"
+        ]
+      },
+      "sizes": [
+        "U"
+      ],
+      "tone": "#1f2a44",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/sun-beanie-coste-navy/1.jpg"
+      ],
+      "type": "cappelli",
+      "id": "sun-beanie-coste-navy",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Nero",
+        "en": "Black"
+      },
+      "brand": "Sun68",
+      "price": 40,
+      "name": {
+        "it": "Berretto beanie in misto lana a coste nero",
+        "en": "Black ribbed wool-blend beanie"
+      },
+      "code": "C4610711",
+      "bullets": {
+        "it": [
+          "Berretto beanie in maglia di misto lana",
+          "Lavorazione a coste",
+          "Risvolto",
+          "Patch SUN68"
+        ],
+        "en": [
+          "Wool-blend knit beanie",
+          "Ribbed knit",
+          "Turn-up cuff",
+          "SUN68 patch"
+        ]
+      },
+      "sizes": [
+        "U"
+      ],
+      "tone": "#1c1c1c",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/sun-beanie-coste-nero/1.jpg"
+      ],
+      "type": "cappelli",
+      "id": "sun-beanie-coste-nero",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Grigio chiaro",
+        "en": "Light grey"
+      },
+      "brand": "Sun68",
+      "price": 80,
+      "name": {
+        "it": "Gilet in lana a trecce grigio chiaro",
+        "en": "Light grey cable-knit wool vest"
+      },
+      "code": "K4627806",
+      "bullets": {
+        "it": [
+          "Gilet in filato di misto lana",
+          "Lavorazione a trecce",
+          "Scollo a V",
+          "Bordi a coste",
+          "Medaglietta in metallo con logo SUN68 sul retro"
+        ],
+        "en": [
+          "Wool-blend yarn vest",
+          "Cable knit",
+          "V-neck",
+          "Ribbed trims",
+          "Metal tag with SUN68 logo on the back"
+        ]
+      },
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#bdbdbd",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/sun-gilet-trecce-grigio-chiaro/1.jpg",
+        "assets/img/prodotti/sun-gilet-trecce-grigio-chiaro/2.jpg"
+      ],
+      "type": "maglieria",
+      "id": "sun-gilet-trecce-grigio-chiaro",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Grigio scuro",
+        "en": "Dark grey"
+      },
+      "brand": "Sun68",
+      "price": 80,
+      "name": {
+        "it": "Gilet in lana a trecce grigio scuro",
+        "en": "Dark grey cable-knit wool vest"
+      },
+      "code": "K4627847",
+      "bullets": {
+        "it": [
+          "Gilet in filato di misto lana",
+          "Lavorazione a trecce",
+          "Scollo a V",
+          "Bordi a coste",
+          "Medaglietta in metallo con logo SUN68 sul retro"
+        ],
+        "en": [
+          "Wool-blend yarn vest",
+          "Cable knit",
+          "V-neck",
+          "Ribbed trims",
+          "Metal tag with SUN68 logo on the back"
+        ]
+      },
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#4a4a4c",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/sun-gilet-trecce-grigio-scuro/1.jpg",
+        "assets/img/prodotti/sun-gilet-trecce-grigio-scuro/2.jpg"
+      ],
+      "type": "maglieria",
+      "id": "sun-gilet-trecce-grigio-scuro",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Grigio scuro",
+        "en": "Dark grey"
+      },
+      "brand": "Sun68",
+      "price": 148,
+      "name": {
+        "it": "Cardigan color block in lana e cashmere grigio scuro",
+        "en": "Dark grey colour-block wool and cashmere cardigan"
+      },
+      "code": "K4625547",
+      "bullets": {
+        "it": [
+          "Cardigan in filato di misto lana e cashmere",
+          "Motivo color block",
+          "Girocollo",
+          "Bordi a costine",
+          "Chiusura con bottoni",
+          "Logo SUN68 ricamato sul petto"
+        ],
+        "en": [
+          "Wool and cashmere blend cardigan",
+          "Colour-block pattern",
+          "Crew neck",
+          "Ribbed trims",
+          "Button fastening",
+          "SUN68 logo embroidered on the chest"
+        ]
+      },
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#5a5a5c",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/sun-cardigan-color-block-grigio-scuro/1.jpg",
+        "assets/img/prodotti/sun-cardigan-color-block-grigio-scuro/2.jpg",
+        "assets/img/prodotti/sun-cardigan-color-block-grigio-scuro/3.jpg",
+        "assets/img/prodotti/sun-cardigan-color-block-grigio-scuro/4.jpg",
+        "assets/img/prodotti/sun-cardigan-color-block-grigio-scuro/5.jpg"
+      ],
+      "type": "maglieria",
+      "id": "sun-cardigan-color-block-grigio-scuro",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Grigio chiaro",
+        "en": "Light grey"
+      },
+      "brand": "Sun68",
+      "price": 100,
+      "name": {
+        "it": "Maglia in lana a trecce con cappuccio grigio chiaro",
+        "en": "Light grey hooded cable-knit wool sweater"
+      },
+      "code": "K4627606",
+      "bullets": {
+        "it": [
+          "Maglia in filato di misto lana",
+          "Lavorazione a trecce",
+          "Cappuccio",
+          "Bordi a coste",
+          "Chiusura con zip",
+          "Medaglietta in metallo con logo SUN68 inciso"
+        ],
+        "en": [
+          "Wool-blend yarn sweater",
+          "Cable knit",
+          "Hood",
+          "Ribbed trims",
+          "Zip fastening",
+          "Metal tag with engraved SUN68 logo"
+        ]
+      },
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#bdbdbd",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/sun-maglia-cappuccio-grigio-chiaro/1.jpg"
+      ],
+      "type": "maglieria",
+      "id": "sun-maglia-cappuccio-grigio-chiaro",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Grigio scuro",
+        "en": "Dark grey"
+      },
+      "brand": "Sun68",
+      "price": 100,
+      "name": {
+        "it": "Maglia in lana a trecce con cappuccio grigio scuro",
+        "en": "Dark grey hooded cable-knit wool sweater"
+      },
+      "code": "K4627647",
+      "bullets": {
+        "it": [
+          "Maglia in filato di misto lana",
+          "Lavorazione a trecce",
+          "Cappuccio",
+          "Bordi a coste",
+          "Chiusura con zip",
+          "Medaglietta in metallo con logo SUN68 inciso"
+        ],
+        "en": [
+          "Wool-blend yarn sweater",
+          "Cable knit",
+          "Hood",
+          "Ribbed trims",
+          "Zip fastening",
+          "Metal tag with engraved SUN68 logo"
+        ]
+      },
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#4a4a4c",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/sun-maglia-cappuccio-grigio-scuro/1.jpg"
+      ],
+      "type": "maglieria",
+      "id": "sun-maglia-cappuccio-grigio-scuro",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Berry Chocolate",
+        "en": "Berry Chocolate"
+      },
+      "brand": "Bomboogie",
+      "price": 309,
+      "name": {
+        "it": "Zurich Jacket, cappotto corto in pelliccia sintetica",
+        "en": "Zurich Jacket, short faux fur coat"
+      },
+      "code": "CW9725TFRL6",
+      "bullets": {
+        "it": [
+          "Modello corto in ecopelliccia a pelo lungo",
+          "Davantino staccabile in nylon brillante",
+          "Imbottitura in vera piuma",
+          "Chiusura nascosta",
+          "Cappuccio fisso",
+          "Cintura lucida in vita"
+        ],
+        "en": [
+          "Short long-pile faux fur coat",
+          "Detachable shiny nylon bib",
+          "Real down padding",
+          "Concealed fastening",
+          "Fixed hood",
+          "Shiny waist belt"
+        ]
+      },
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#5a2433",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/bb-zurich-berry-chocolate/1.jpg",
+        "assets/img/prodotti/bb-zurich-berry-chocolate/2.jpg",
+        "assets/img/prodotti/bb-zurich-berry-chocolate/3.jpg",
+        "assets/img/prodotti/bb-zurich-berry-chocolate/4.jpg"
+      ],
+      "type": "capispalla",
+      "id": "bb-zurich-berry-chocolate",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Nero",
+        "en": "Black"
+      },
+      "brand": "Bomboogie",
+      "price": 314,
+      "name": {
+        "it": "Cappotto monopetto in ecopelliccia",
+        "en": "Single-breasted faux fur coat"
+      },
+      "code": "CW7658TSFC6",
+      "bullets": {
+        "it": [
+          "Cappotto lungo bimaterico, fit regular",
+          "Ecopelliccia effetto agnellino",
+          "Cappuccio fisso",
+          "Davantino staccabile in nylon brillante ciré",
+          "Chiusura con zip e bottoni nascosti"
+        ],
+        "en": [
+          "Long two-material coat, regular fit",
+          "Faux fur with shearling effect",
+          "Fixed hood",
+          "Detachable shiny ciré nylon bib",
+          "Zip and concealed button fastening"
+        ]
+      },
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#1c1c1c",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/bb-cappotto-monopetto-nero/1.jpg",
+        "assets/img/prodotti/bb-cappotto-monopetto-nero/2.jpg",
+        "assets/img/prodotti/bb-cappotto-monopetto-nero/3.jpg",
+        "assets/img/prodotti/bb-cappotto-monopetto-nero/4.jpg"
+      ],
+      "type": "capispalla",
+      "id": "bb-cappotto-monopetto-nero",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Dove Brown / Burgundy",
+        "en": "Dove Brown / Burgundy"
+      },
+      "brand": "Bomboogie",
+      "price": 219,
+      "name": {
+        "it": "Giacca Emmy in tessuto scamosciato effetto shearling",
+        "en": "Emmy jacket in suede-effect shearling fabric"
+      },
+      "code": "GWEMMYTPSF6",
+      "bullets": {
+        "it": [
+          "Giacca corta doppiopetto, fit regular",
+          "Ecomontone scamosciato effetto shearling",
+          "Ampi revers in pelliccia sintetica effetto agnellino",
+          "Polsini risvoltati",
+          "Chiusura con bottoni"
+        ],
+        "en": [
+          "Short double-breasted jacket, regular fit",
+          "Suede-effect faux shearling",
+          "Wide faux fur lapels",
+          "Turn-up cuffs",
+          "Button fastening"
+        ]
+      },
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#8a7a6a",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/bb-emmy-dove-brown/1.jpg",
+        "assets/img/prodotti/bb-emmy-dove-brown/2.jpg",
+        "assets/img/prodotti/bb-emmy-dove-brown/3.jpg",
+        "assets/img/prodotti/bb-emmy-dove-brown/4.jpg",
+        "assets/img/prodotti/bb-emmy-dove-brown/5.jpg"
+      ],
+      "type": "capispalla",
+      "id": "bb-emmy-dove-brown",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Berry Chocolate",
+        "en": "Berry Chocolate"
+      },
+      "brand": "Bomboogie",
+      "price": 314,
+      "name": {
+        "it": "Odessa Overcoat, cappotto lungo in ecopelliccia effetto agnellino",
+        "en": "Odessa Overcoat, long shearling-effect faux fur coat"
+      },
+      "code": "CW6570TSFC6",
+      "bullets": {
+        "it": [
+          "Cappotto lungo monopetto bimaterico",
+          "Ecopelliccia effetto agnellino",
+          "Davantino staccabile con cappuccio in nylon brillante",
+          "Imbottitura in vera piuma",
+          "Chiusura con bottoni nascosti, ampi revers",
+          "Fit regular"
+        ],
+        "en": [
+          "Long two-material single-breasted coat",
+          "Faux fur with shearling effect",
+          "Detachable shiny nylon bib with hood",
+          "Real down padding",
+          "Concealed button fastening, wide lapels",
+          "Regular fit"
+        ]
+      },
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#4e3034",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/bb-odessa-berry-chocolate/1.jpg",
+        "assets/img/prodotti/bb-odessa-berry-chocolate/2.jpg",
+        "assets/img/prodotti/bb-odessa-berry-chocolate/3.jpg",
+        "assets/img/prodotti/bb-odessa-berry-chocolate/4.jpg",
+        "assets/img/prodotti/bb-odessa-berry-chocolate/5.jpg"
+      ],
+      "type": "capispalla",
+      "id": "bb-odessa-berry-chocolate",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Urban Bronze",
+        "en": "Urban Bronze"
+      },
+      "brand": "Bomboogie",
+      "price": 314,
+      "name": {
+        "it": "Odessa Overcoat, cappotto lungo in ecopelliccia effetto agnellino",
+        "en": "Odessa Overcoat, long shearling-effect faux fur coat"
+      },
+      "code": "CW6570TSFC6",
+      "bullets": {
+        "it": [
+          "Cappotto lungo monopetto bimaterico",
+          "Ecopelliccia effetto agnellino",
+          "Davantino staccabile con cappuccio in nylon brillante",
+          "Imbottitura in vera piuma",
+          "Chiusura con bottoni nascosti, ampi revers",
+          "Fit regular"
+        ],
+        "en": [
+          "Long two-material single-breasted coat",
+          "Faux fur with shearling effect",
+          "Detachable shiny nylon bib with hood",
+          "Real down padding",
+          "Concealed button fastening, wide lapels",
+          "Regular fit"
+        ]
+      },
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tone": "#5e5048",
+      "isNew": true,
+      "cat": "donna",
+      "images": [
+        "assets/img/prodotti/bb-odessa-urban-bronze/1.jpg",
+        "assets/img/prodotti/bb-odessa-urban-bronze/2.jpg",
+        "assets/img/prodotti/bb-odessa-urban-bronze/3.jpg",
+        "assets/img/prodotti/bb-odessa-urban-bronze/4.jpg",
+        "assets/img/prodotti/bb-odessa-urban-bronze/5.jpg"
+      ],
+      "type": "capispalla",
+      "id": "bb-odessa-urban-bronze",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Verde scuro",
+        "en": "Dark green"
+      },
+      "brand": "Sun68",
+      "price": 80,
+      "name": {
+        "it": "Polo in piquet con collo a righe verde scuro",
+        "en": "Dark green piqué polo with striped collar"
+      },
+      "code": "A4610537",
+      "bullets": {
+        "it": [
+          "Polo in piquet di cotone stretch",
+          "Colletto con righe a contrasto",
+          "Maniche lunghe",
+          "Chiusura con bottoni",
+          "Logo SUN68 ricamato sul petto"
+        ],
+        "en": [
+          "Stretch cotton piqué polo",
+          "Collar with contrasting stripes",
+          "Long sleeves",
+          "Button fastening",
+          "SUN68 logo embroidered on the chest"
+        ]
+      },
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "tone": "#2f3b2e",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/sun-polo-righe-verde-scuro/1.jpg",
+        "assets/img/prodotti/sun-polo-righe-verde-scuro/2.jpg",
+        "assets/img/prodotti/sun-polo-righe-verde-scuro/3.jpg",
+        "assets/img/prodotti/sun-polo-righe-verde-scuro/4.jpg",
+        "assets/img/prodotti/sun-polo-righe-verde-scuro/5.jpg"
+      ],
+      "type": "tshirt",
+      "id": "sun-polo-righe-verde-scuro",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Grigio scuro",
+        "en": "Dark grey"
+      },
+      "brand": "Sun68",
+      "price": 80,
+      "name": {
+        "it": "Polo in piquet con collo a righe grigio scuro",
+        "en": "Dark grey piqué polo with striped collar"
+      },
+      "code": "A4610547",
+      "bullets": {
+        "it": [
+          "Polo in piquet di cotone stretch",
+          "Colletto con righe a contrasto",
+          "Maniche lunghe",
+          "Chiusura con bottoni",
+          "Logo SUN68 ricamato sul petto"
+        ],
+        "en": [
+          "Stretch cotton piqué polo",
+          "Collar with contrasting stripes",
+          "Long sleeves",
+          "Button fastening",
+          "SUN68 logo embroidered on the chest"
+        ]
+      },
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "tone": "#4a4a4c",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/sun-polo-righe-grigio-scuro/1.jpg"
+      ],
+      "type": "tshirt",
+      "id": "sun-polo-righe-grigio-scuro",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Blu navy",
+        "en": "Navy blue"
+      },
+      "brand": "Sun68",
+      "price": 80,
+      "name": {
+        "it": "Polo in piquet con collo a righe navy blue",
+        "en": "Navy blue piqué polo with striped collar"
+      },
+      "code": "A4610507",
+      "bullets": {
+        "it": [
+          "Polo in piquet di cotone stretch",
+          "Colletto con righe a contrasto",
+          "Maniche lunghe",
+          "Chiusura con bottoni",
+          "Logo SUN68 ricamato sul petto"
+        ],
+        "en": [
+          "Stretch cotton piqué polo",
+          "Collar with contrasting stripes",
+          "Long sleeves",
+          "Button fastening",
+          "SUN68 logo embroidered on the chest"
+        ]
+      },
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "tone": "#1f2a44",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/sun-polo-righe-navy/1.jpg"
+      ],
+      "type": "tshirt",
+      "id": "sun-polo-righe-navy",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Marrone scuro (Espresso)",
+        "en": "Dark brown (Espresso)"
+      },
+      "brand": "North Sails",
+      "price": 79.9,
+      "name": {
+        "it": "Polo a maniche lunghe con patch logo marrone scuro",
+        "en": "Dark brown long-sleeve polo with logo patch"
+      },
+      "code": "692748",
+      "bullets": {
+        "it": [
+          "Realizzata in piqué di cotone biologico pettinato",
+          "Vestibilità regolare",
+          "Collo a polo e maniche lunghe",
+          "Spacchi laterali",
+          "Bordi a contrasto",
+          "Stampa North Sails sul colletto",
+          "Patch con logo North Sails sul petto"
+        ],
+        "en": [
+          "Made of combed organic cotton piqué",
+          "Regular fit",
+          "Polo collar and long sleeves",
+          "Side slits",
+          "Contrast trims",
+          "North Sails print on the collar",
+          "North Sails logo patch on the chest"
+        ]
+      },
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "tone": "#3a2418",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/ns-polo-maniche-lunghe-espresso/1.jpg",
+        "assets/img/prodotti/ns-polo-maniche-lunghe-espresso/2.jpg",
+        "assets/img/prodotti/ns-polo-maniche-lunghe-espresso/3.jpg",
+        "assets/img/prodotti/ns-polo-maniche-lunghe-espresso/4.jpg",
+        "assets/img/prodotti/ns-polo-maniche-lunghe-espresso/5.jpg",
+        "assets/img/prodotti/ns-polo-maniche-lunghe-espresso/6.jpg",
+        "assets/img/prodotti/ns-polo-maniche-lunghe-espresso/7.jpg"
+      ],
+      "type": "tshirt",
+      "id": "ns-polo-maniche-lunghe-espresso",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Grigio mélange",
+        "en": "Grey melange"
+      },
+      "brand": "North Sails",
+      "price": 105,
+      "name": {
+        "it": "Maglione girocollo in misto cashmere grigio mélange",
+        "en": "Grey melange cashmere blend crew neck sweater"
+      },
+      "code": "699486",
+      "bullets": {
+        "it": [
+          "Realizzato in misto cashmere",
+          "Contiene fibre riciclate",
+          "Finezza 12",
+          "Vestibilità regolare con girocollo",
+          "Bordi a coste",
+          "Logo ricamato sul petto",
+          "Prodotto in Italia"
+        ],
+        "en": [
+          "Made of cashmere blend",
+          "Contains recycled fibres",
+          "12 gauge",
+          "Regular fit with crew neck",
+          "Ribbed trims",
+          "Logo embroidered on the chest",
+          "Made in Italy"
+        ]
+      },
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "tone": "#a9a9a9",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/ns-girocollo-cashmere-grigio/1.jpg",
+        "assets/img/prodotti/ns-girocollo-cashmere-grigio/2.jpg",
+        "assets/img/prodotti/ns-girocollo-cashmere-grigio/3.jpg",
+        "assets/img/prodotti/ns-girocollo-cashmere-grigio/4.jpg",
+        "assets/img/prodotti/ns-girocollo-cashmere-grigio/5.jpg",
+        "assets/img/prodotti/ns-girocollo-cashmere-grigio/6.jpg"
+      ],
+      "type": "maglieria",
+      "id": "ns-girocollo-cashmere-grigio",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Blu navy",
+        "en": "Navy blue"
+      },
+      "brand": "North Sails",
+      "price": 105,
+      "name": {
+        "it": "Felpa con zip integrale e patch logo blu navy",
+        "en": "Navy blue full-zip sweatshirt with logo patch"
+      },
+      "code": "691462",
+      "bullets": {
+        "it": [
+          "Realizzata in pile di cotone biologico spazzolato",
+          "Vestibilità regolare con collo alto",
+          "Chiusura con zip",
+          "Tasche a filetto sul davanti",
+          "Polsini e orlo a coste",
+          "Patch North Sails sul petto"
+        ],
+        "en": [
+          "Made of brushed organic cotton fleece",
+          "Regular fit with high collar",
+          "Zip fastening",
+          "Front welt pockets",
+          "Ribbed cuffs and hem",
+          "North Sails patch on the chest"
+        ]
+      },
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "tone": "#1c2541",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/ns-felpa-zip-navy/1.jpg",
+        "assets/img/prodotti/ns-felpa-zip-navy/2.jpg",
+        "assets/img/prodotti/ns-felpa-zip-navy/3.jpg",
+        "assets/img/prodotti/ns-felpa-zip-navy/4.jpg",
+        "assets/img/prodotti/ns-felpa-zip-navy/5.jpg",
+        "assets/img/prodotti/ns-felpa-zip-navy/6.jpg"
+      ],
+      "type": "felpe",
+      "id": "ns-felpa-zip-navy",
+      "look": []
+    },
+    {
+      "color": {
+        "it": "Rosso ruggine (Rust)",
+        "en": "Rust red"
+      },
+      "brand": "North Sails",
+      "price": 125,
+      "name": {
+        "it": "Maglione girocollo a nido d'ape rosso ruggine",
+        "en": "Rust red honeycomb crew neck sweater"
+      },
+      "code": "699584",
+      "bullets": {
+        "it": [
+          "Realizzato in misto cashmere",
+          "Contiene fibre riciclate",
+          "Finezza 7",
+          "Lavorazione a nido d'ape",
+          "Vestibilità regolare con girocollo",
+          "Etichetta North Sails sull'orlo",
+          "Prodotto in Italia"
+        ],
+        "en": [
+          "Made of cashmere blend",
+          "Contains recycled fibres",
+          "7 gauge",
+          "Honeycomb knit",
+          "Regular fit with crew neck",
+          "North Sails label on the hem",
+          "Made in Italy"
+        ]
+      },
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "tone": "#9e2a22",
+      "isNew": true,
+      "cat": "uomo",
+      "images": [
+        "assets/img/prodotti/ns-girocollo-nido-ape-ruggine/1.jpg",
+        "assets/img/prodotti/ns-girocollo-nido-ape-ruggine/2.jpg",
+        "assets/img/prodotti/ns-girocollo-nido-ape-ruggine/3.jpg",
+        "assets/img/prodotti/ns-girocollo-nido-ape-ruggine/4.jpg",
+        "assets/img/prodotti/ns-girocollo-nido-ape-ruggine/5.jpg",
+        "assets/img/prodotti/ns-girocollo-nido-ape-ruggine/6.jpg"
+      ],
+      "type": "maglieria",
+      "id": "ns-girocollo-nido-ape-ruggine",
+      "look": []
+    }
+  ]
+}

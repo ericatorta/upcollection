@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- La 404 può comparire a qualsiasi indirizzo (es. /donna/vecchio-prodotto):
+       base fa trovare css, js e immagini dalla radice del sito.
+       Se il sito viene pubblicato in una sottocartella (es. /up-collection/), cambiare in href="/up-collection/". -->
+  <base href="/">
+  <meta name="theme-color" content="#2d4587">
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/fonts.css?v=202610181200">
+  <link rel="stylesheet" href="assets/css/style.css?v=202610191700">
+  <link rel="preload" href="assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="assets/fonts/cormorant-garamond-400-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <title>Pagina non trovata · Up Collection</title>
+</head>
+<body data-page="notfound">
+  <div class="announce"></div>
+  <header id="site-header" class="site-header"></header>
+
+  <main class="wrap">
+    <section class="nf">
+      <p class="nf-code" aria-hidden="true">404</p>
+      <h1 data-i18n="nf.title">Pagina non trovata</h1>
+      <p class="nf-text" data-i18n="nf.text">La pagina che cerchi non esiste più, o forse il capo è già andato via. In negozio però c'è molto altro.</p>
+      <div class="nf-actions">
+        <a class="btn btn-solid" href="index.html" data-i18n="nf.home">Torna alla home</a>
+        <a class="btn btn-line" href="catalogo.html" data-i18n="nf.shop">Vai al catalogo</a>
+      </div>
+    </section>
+
+    <section class="section" style="padding-top:0">
+      <div class="section-head">
+        <h2 data-i18n="home.new">Nuovi arrivi</h2>
+        <a class="eyebrow link-under" href="catalogo.html" data-i18n="home.viewall">Vedi tutto</a>
+      </div>
+      <div class="grid" id="new-grid"></div>
+    </section>
+  </main>
+
+  <footer id="site-footer" class="site-footer" style="margin-top:0"></footer>
+  <script src="assets/js/products.js?v=202610182010"></script>
+  <script src="assets/js/i18n.js?v=202610191700"></script>
+  <script src="assets/js/site.js?v=202610191700"></script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+# Cloudflare Pages: intestazioni HTTP (sostituisce la parte [[headers]] di netlify.toml)
+# Pannello admin: non indicizzare
+/admin/*
+  X-Robots-Tag: noindex

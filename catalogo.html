@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#2d4587">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/fonts.css?v=202610181200">
+  <link rel="stylesheet" href="assets/css/style.css?v=202610191700">
+  <link rel="preload" href="assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="assets/fonts/cormorant-garamond-400-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <title>Catalogo · Abbigliamento e accessori a Torino · Up Collection</title>
+  <link rel="canonical" href="https://upcollectiontorino.com/catalogo">
+  <meta name="description" content="Il catalogo di Up Collection: abbigliamento e accessori donna e uomo a Torino. Scopri i capi e chiedi la disponibilità su WhatsApp.">
+  <!-- Anteprima quando il link viene condiviso (WhatsApp, Facebook, Instagram).
+       Indirizzi completi: se cambia il dominio, sostituire https://upcollectiontorino.com in tutti i file. -->
+  <meta property="og:url" content="https://upcollectiontorino.com/catalogo">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Up Collection">
+  <meta property="og:locale" content="it_IT">
+  <meta property="og:locale:alternate" content="en_GB">
+  <meta property="og:title" content="Catalogo · Abbigliamento e accessori a Torino · Up Collection">
+  <meta property="og:description" content="Il catalogo di Up Collection: abbigliamento e accessori donna e uomo a Torino. Scopri i capi e chiedi la disponibilità su WhatsApp.">
+  <meta property="og:image" content="https://upcollectiontorino.com/assets/img/anteprima-social.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+</head>
+<body data-page="catalog">
+  <div class="announce"></div>
+  <header id="site-header" class="site-header"></header>
+
+  <main class="wrap page-top catalog">
+    <h1 class="page-title" id="cat-title"></h1>
+    <nav class="subnav" id="filters"></nav>
+    <div class="toolbar">
+      <span id="count"></span>
+      <div class="views" id="views"></div>
+      <div class="toolbar-right">
+        <button class="tool-btn" data-open-panel="size" data-i18n="f.size">Taglia</button>
+        <button class="tool-btn" data-open-panel="color" data-i18n="f.color">Colore</button>
+        <button class="tool-btn tool-main" data-open-panel="">
+          <span data-i18n="f.open">Ordina e filtra</span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 7h12M19 7h2M3 17h4M11 17h10" stroke="currentColor" stroke-width="1.3" fill="none"/><circle cx="17" cy="7" r="2" fill="none" stroke="currentColor" stroke-width="1.3"/><circle cx="9" cy="17" r="2" fill="none" stroke="currentColor" stroke-width="1.3"/></svg>
+        </button>
+      </div>
+      <nav class="catnav" id="catnav" hidden></nav>
+    </div>
+    <div class="chips" id="chips"></div>
+    <div id="cattiles"></div>
+    <div class="pgrid" id="grid"></div>
+    <div id="picks"></div>
+  </main>
+
+  <!-- pannello "Ordina e filtra": le sezioni vengono riempite da site.js -->
+  <div class="fpanel-backdrop" data-close-panel></div>
+  <aside class="fpanel" id="fpanel" aria-hidden="true">
+    <div class="fpanel-head">
+      <h2 data-i18n="f.title">Filtri</h2>
+      <button class="fpanel-x" data-close-panel aria-label="Chiudi">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 5l14 14M19 5L5 19" stroke="currentColor" stroke-width="1.3"/></svg>
+      </button>
+    </div>
+    <div class="fpanel-body">
+      <div class="fsearch">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="1.3"/><path d="M16 16l4.5 4.5" stroke="currentColor" stroke-width="1.3"/></svg>
+        <input type="search" id="fq" autocomplete="off">
+      </div>
+      <details class="fsec" data-sec="sort" open><summary data-i18n="f.sort">Ordina per</summary><div class="fopts" id="f-sort"></div></details>
+      <details class="fsec" data-sec="type"><summary data-i18n="f.type">Tipo di capo</summary><div class="fopts" id="f-type"></div></details>
+      <details class="fsec" data-sec="brand"><summary data-i18n="f.brand">Marchio</summary><div class="fopts" id="f-brand"></div></details>
+      <details class="fsec" data-sec="size"><summary data-i18n="f.size">Taglia</summary><div class="fopts fsizes" id="f-size"></div></details>
+      <details class="fsec" data-sec="color"><summary data-i18n="f.color">Colore</summary><div class="fopts" id="f-color"></div></details>
+      <details class="fsec" data-sec="price"><summary data-i18n="f.price">Prezzo</summary><div class="fopts" id="f-price"></div></details>
+    </div>
+    <div class="fpanel-foot">
+      <button class="btn btn-line" id="f-reset" data-i18n="f.reset">Azzera</button>
+      <button class="btn btn-solid" id="f-show" data-close-panel></button>
+    </div>
+  </aside>
+
+  <footer id="site-footer" class="site-footer"></footer>
+  <script src="assets/js/products.js?v=202610182010"></script>
+  <script src="assets/js/i18n.js?v=202610191700"></script>
+  <script src="assets/js/site.js?v=202610191700"></script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+# Cloudflare Pages: file di lavoro da non mostrare online.
+# Il comando di build su Cloudflare li cancella già prima della pubblicazione
+# (rm -rf DA-FARE.md newsletter netlify.toml); questi rimandi sono una seconda sicurezza.
+/DA-FARE.md /404.html 302
+/newsletter/* /404.html 302
+/netlify.toml /404.html 302
+/strumenti/* /404.html 302
+/comunicazione/* /404.html 302
+/loghi/* /404.html 302
+/.pages.yml /404.html 302
+/functions/* /404.html 302
+
+# prove del 19/10 diventate le pagine Donna e Uomo
+/prova-donna /donna 301
+/prova-donna.html /donna 301
+/prova-uomo /uomo 301
+/prova-uomo.html /uomo 301

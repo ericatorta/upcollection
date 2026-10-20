@@ -1,0 +1,71 @@
+{
+  "annuncio": {
+    "it": "Iscriviti alla newsletter: nuovi arrivi e novità dal negozio",
+    "en": "Join our newsletter: new arrivals and store news"
+  },
+  "telefono": "011 331867",
+  "whatsapp": "011 331867",
+  "email": "info@upcollectiontorino.com",
+  "indirizzo": "Corso Racconigi 159D, Torino",
+  "orari": [
+    {
+      "giorno": "Lunedì",
+      "orario": "15:30 – 19:30"
+    },
+    {
+      "giorno": "Martedì",
+      "orario": "9:30 – 12:30 · 15:30 – 19:30"
+    },
+    {
+      "giorno": "Mercoledì",
+      "orario": "9:30 – 12:30 · 15:30 – 19:30"
+    },
+    {
+      "giorno": "Giovedì",
+      "orario": "9:30 – 12:30 · 15:30 – 19:30"
+    },
+    {
+      "giorno": "Venerdì",
+      "orario": "9:30 – 12:30 · 15:30 – 19:30"
+    },
+    {
+      "giorno": "Sabato",
+      "orario": "9:30 – 12:30 · 15:30 – 19:30"
+    },
+    {
+      "giorno": "Domenica",
+      "orario": "Chiuso"
+    }
+  ],
+  "riquadri_home": [
+    {
+      "tipo": "donna",
+      "prodotto": "lj-giaccone-montone"
+    },
+    {
+      "tipo": "uomo",
+      "prodotto": "bl-piumino-ballard-nero"
+    }
+  ],
+  "recensioni": {
+    "voto": "4,9",
+    "numero": 41,
+    "link": "https://maps.app.goo.gl/FM2YBDB1PjBqrfrq5",
+    "lista": [
+      {
+        "testo": "Il mio negozio di fiducia a Torino! Hanno una selezione di brand pazzesca che difficilmente si trova tutta insieme in un unico posto. Personale gentilissimo, super disponibile e mai invadente.",
+        "autore": "Maria R."
+      },
+      {
+        "testo": "Il punto di riferimento a Torino per lo stile e i grandi brand! Il personale è estremamente accogliente, professionale e sa consigliarti senza mai essere pressante.",
+        "autore": "Abdelhadi F."
+      },
+      {
+        "testo": "Vestiti ottimi e di qualità, durano una vita! Personale professionale, sempre pronto a consigliare al meglio.",
+        "autore": "Ali S."
+      }
+    ]
+  },
+  "instagram_foto": [],
+  "pulsante_whatsapp": false
+}
